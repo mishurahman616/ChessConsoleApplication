@@ -1,0 +1,12 @@
+F:\AspDotNet\DotNet\ChessConsole\ChessModel\bin\Debug\net7.0\ChessModel.deps.json
+F:\AspDotNet\DotNet\ChessConsole\ChessModel\bin\Debug\net7.0\ChessModel.dll
+F:\AspDotNet\DotNet\ChessConsole\ChessModel\bin\Debug\net7.0\ChessModel.pdb
+F:\AspDotNet\DotNet\ChessConsole\ChessModel\obj\Debug\net7.0\ChessModel.csproj.AssemblyReference.cache
+F:\AspDotNet\DotNet\ChessConsole\ChessModel\obj\Debug\net7.0\ChessModel.GeneratedMSBuildEditorConfig.editorconfig
+F:\AspDotNet\DotNet\ChessConsole\ChessModel\obj\Debug\net7.0\ChessModel.AssemblyInfoInputs.cache
+F:\AspDotNet\DotNet\ChessConsole\ChessModel\obj\Debug\net7.0\ChessModel.AssemblyInfo.cs
+F:\AspDotNet\DotNet\ChessConsole\ChessModel\obj\Debug\net7.0\ChessModel.csproj.CoreCompileInputs.cache
+F:\AspDotNet\DotNet\ChessConsole\ChessModel\obj\Debug\net7.0\ChessModel.dll
+F:\AspDotNet\DotNet\ChessConsole\ChessModel\obj\Debug\net7.0\refint\ChessModel.dll
+F:\AspDotNet\DotNet\ChessConsole\ChessModel\obj\Debug\net7.0\ChessModel.pdb
+F:\AspDotNet\DotNet\ChessConsole\ChessModel\obj\Debug\net7.0\ref\ChessModel.dll
